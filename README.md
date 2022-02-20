@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yiannis Roumpos
-- 👀 I’m interested in Machine Learning and Distributed Computing
-- 🌱 I’m currently studying @UTh on Electrical and Conputer Engineering
+- - 🌱 I’m currently studying @UTh on Electrical and Conputer Engineering
 
 
 
