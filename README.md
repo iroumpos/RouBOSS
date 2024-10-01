@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Yiannis Roumpos
-- - 🌱 I’m currently studying @UTh on Electrical and Conputer Engineering
+
 
 
 
